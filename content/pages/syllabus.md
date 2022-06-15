@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, requirements and expectations, grading, and the schedule of course topics
+  and assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -19,11 +22,11 @@ Welcome to Public Opinion and American Democracy. This course will examine publi
 Requirements and Expectations
 -----------------------------
 
-You are expected to attend every class session. You are further expected to come prepared to discuss the issues raised in the [readings]({{< baseurl >}}/pages/readings). Please read the assigned materials **before class** on the date they are listed.
+You are expected to attend every class session. You are further expected to come prepared to discuss the issues raised in the {{% resource_link b017ebe4-7d8f-24c3-4978-6551b38d0798 "readings" %}}. Please read the assigned materials **before class** on the date they are listed.
 
 To meet the purpose of the course, you will be expected to both consume and digest readings from scholarly and journalistic sources. You are also expected to be aware of current events, especially relating to American politics. I highly recommend that you subscribe to and read a national newspaper, such as the _Wall Street Journal_ or the _New York Times_.
 
-Each week, one-half of the class will be required to write a short essay responding to the week's readings, no longer than two single-spaced pages. Students will also be required to write two papers for the class. More details about these papers can be found in [assignments]({{< baseurl >}}/pages/assignments) .
+Each week, one-half of the class will be required to write a short essay responding to the week's readings, no longer than two single-spaced pages. Students will also be required to write two papers for the class. More details about these papers can be found in {{% resource_link fdd90184-327d-b80e-c6ba-d4d51a60a48e "assignments" %}} .
 
 Grading
 -------
