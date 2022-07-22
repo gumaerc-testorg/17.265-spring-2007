@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on required books for the course and
+  the schedule of readings by topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: b017ebe4-7d8f-24c3-4978-6551b38d0798
 ---
